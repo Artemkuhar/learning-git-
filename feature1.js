@@ -5,3 +5,7 @@ function feature1(login, pass) {
     return "login is incorrect"
   }
 }
+
+function devHello() {
+  alert('dev hello')
+}

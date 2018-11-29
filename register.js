@@ -1,3 +1,3 @@
 function reg() {
-  return 'reg account '
+  return 'reg account to be change!!!!!!!!!!!!!!!'
 }
